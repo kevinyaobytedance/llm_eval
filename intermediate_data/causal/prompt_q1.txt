@@ -1,0 +1,6 @@
+Context: After [Event_A], [Event_B].
+Question: Is [Event_A] a cause of [Event_B]?
+A) Yes
+B) No
+You must answer the question with A) or B).
+Answer: 

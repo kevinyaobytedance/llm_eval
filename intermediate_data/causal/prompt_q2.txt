@@ -1,0 +1,6 @@
+Context: After [Event_A], [Event_B].
+Question: If we change [Event_B] to flip the sentiment of the sentence, is it necessary to change [Event_A] for consistency?
+A) Yes
+B) No
+You must answer the question with A) or B).
+Answer: 
